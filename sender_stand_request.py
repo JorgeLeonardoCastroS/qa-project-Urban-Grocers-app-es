@@ -1,4 +1,3 @@
-import auth_token
 import configuration
 import requests
 import data
